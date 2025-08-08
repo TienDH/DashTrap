@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     public int maxScore = 48;
     [SerializeField] private GameObject winPanel;
     private bool isPaused = false; // Trạng thái tạm dừng
-
+    
     private void Awake()
     {
         if (Instance == null)
@@ -139,11 +139,12 @@ public class GameManager : MonoBehaviour
     
     public void UnlockNewLevel()
     {
-        if(SceneManager.GetActiveScene().buildIndex >= PlayerPrefs.GetInt("ReachedIndex"))
+        if (SceneManager.GetActiveScene().buildIndex >= PlayerPrefs.GetInt("ReachedIndex"))
         {
             PlayerPrefs.SetInt("ReachedIndex", SceneManager.GetActiveScene().buildIndex + 1);
             PlayerPrefs.SetInt("Unlocked", PlayerPrefs.GetInt("Unlocked", 1) + 1);
             PlayerPrefs.Save();
+    
         }
     }
 }

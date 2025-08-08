@@ -5,6 +5,7 @@ public class BulletShoot : MonoBehaviour
     //public Vector2 direction = Vector2.up;
     //public float speed = 5f;
     //public float lifeTime = 5f;
+    
 
 
 
