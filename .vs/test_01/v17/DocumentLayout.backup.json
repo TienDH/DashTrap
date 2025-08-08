@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unitysave\\test_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|d:\\unitysave\\test_01\\assets\\script\\levelselectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelselectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unitysave\\test_01\\Assets\\Scenes\\LevelSelectMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\LevelSelectMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|d:\\unitysave\\test_01\\assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\audiotoggleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiotoggleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\laserbrean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\laserbrean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unitysave\\test_01\\Assets\\Script\\LaserBeam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\LaserBeam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\inputswipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inputswipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\changerscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\changerscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|D:\\unitysave\\test_01\\assets\\script\\bulletshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704EE9F-FC17-D53E-F5E2-ADFE02B88E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unitysave\\test_01\\Assets\\Script\\Destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unitysave\\test_01\\Assets\\Script\\Coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelSelectMenu.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\LevelSelectMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelSelectMenu.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\LevelSelectMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelSelectMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:22:49.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelSelectMenu.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Scenes\\LevelSelectMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\LevelSelectMenu.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Scenes\\LevelSelectMenu.cs",
+              "RelativeToolTip": "Assets\\Scenes\\LevelSelectMenu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:39:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Shooter.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\Shooter.cs",
+              "RelativeToolTip": "Assets\\Script\\Shooter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:29:08.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioManager.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioManager.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:07:49.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioToggleUI.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\AudioToggleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioToggleUI.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\AudioToggleUI.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioToggleUI.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:25:18.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputSwipe.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\InputSwipe.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InputSwipe.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\InputSwipe.cs",
+              "RelativeToolTip": "Assets\\Script\\InputSwipe.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:44:24.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA4wGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:03:51.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelManager.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelManager.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:34:07.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BulletShoot.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\BulletShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BulletShoot.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\BulletShoot.cs",
+              "RelativeToolTip": "Assets\\Script\\BulletShoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:30:43.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LaserBrean.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\LaserBrean.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LaserBrean.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\LaserBrean.cs",
+              "RelativeToolTip": "Assets\\Script\\LaserBrean.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:56:39.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LaserBeam.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\LaserBeam.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LaserBeam.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\LaserBeam.cs",
+              "RelativeToolTip": "Assets\\Script\\LaserBeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:57:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCollision.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerCollision.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:26:33.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:03:45.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyController.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:24:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangerScene.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\ChangerScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ChangerScene.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\ChangerScene.cs",
+              "RelativeToolTip": "Assets\\Script\\ChangerScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:06:20.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraController.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:59:39.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoDestroy.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\AutoDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AutoDestroy.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\AutoDestroy.cs",
+              "RelativeToolTip": "Assets\\Script\\AutoDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:53:29.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Coin.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\Coin.cs",
+              "RelativeToolTip": "Assets\\Script\\Coin.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:29:36.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Destroy.cs",
+              "DocumentMoniker": "D:\\unitysave\\test_01\\Assets\\Script\\Destroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Destroy.cs",
+              "ToolTip": "D:\\unitysave\\test_01\\Assets\\Script\\Destroy.cs",
+              "RelativeToolTip": "Assets\\Script\\Destroy.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:46:17.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
