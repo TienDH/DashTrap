@@ -27,8 +27,12 @@ public class AutoShooterNoPhysics : MonoBehaviour
     {
         if (bulletPrefab != null && firePoint != null)
         {
-            // Tạo viên đạn tại firePoint
-            GameObject bullet = Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
+            // Tính góc xoay dựa trên hướng bắn
+            float angle = Mathf.Atan2(shootDirection.y, shootDirection.x) * Mathf.Rad2Deg;
+            Quaternion rot = Quaternion.AngleAxis(angle, Vector3.forward);
+
+            // Tạo viên đạn với góc xoay đúng hướng
+            GameObject bullet = Instantiate(bulletPrefab, firePoint.position, rot);
             StartCoroutine(MoveBullet(bullet)); // Bắt đầu coroutine di chuyển viên đạn
         }
     }
@@ -38,10 +42,7 @@ public class AutoShooterNoPhysics : MonoBehaviour
         while (bullet != null) // Kiểm tra nếu viên đạn vẫn tồn tại
         {
             // Di chuyển viên đạn theo hướng đã định nghĩa
-            if (bullet != null)
-            {
-                bullet.transform.Translate(shootDirection * bulletSpeed * Time.deltaTime);
-            }
+            bullet.transform.Translate(shootDirection.normalized * bulletSpeed * Time.deltaTime, Space.World);
             yield return null; // Chờ frame tiếp theo
         }
     }
