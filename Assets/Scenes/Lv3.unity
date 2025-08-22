@@ -171,6 +171,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (112)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -416,6 +420,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -632,6 +640,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (126)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -688,6 +700,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (211)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -761,6 +777,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -823,6 +843,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (99)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -879,6 +903,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (170)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -937,6 +965,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -993,6 +1025,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (143)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1061,6 +1097,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1117,6 +1157,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (177)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1175,6 +1219,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1231,6 +1279,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (128)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1346,6 +1398,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (169)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1403,6 +1459,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (226)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1459,6 +1519,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (167)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1573,6 +1637,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (200)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1693,6 +1761,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1749,6 +1821,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1807,6 +1883,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (118)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1863,6 +1943,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (107)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2013,9 +2097,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2063,7 +2159,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: wallHitDelay
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: initialDirection
@@ -2144,9 +2240,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2194,7 +2302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: wallHitDelay
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: initialDirection
@@ -2256,6 +2364,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2485,6 +2597,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (145)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2611,6 +2727,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2754,6 +2874,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (101)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2949,6 +3073,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (201)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3016,6 +3144,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3073,6 +3205,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3082,11 +3218,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 3025473595656765604, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
   m_PrefabInstance: {fileID: 9904710}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &233063532 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-  m_PrefabInstance: {fileID: 2081844198}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &235186368
 PrefabInstance:
@@ -3139,6 +3270,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (189)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3196,6 +3331,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3355,6 +3494,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3412,6 +3555,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (140)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3468,6 +3615,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3536,6 +3687,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (215)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3603,6 +3758,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (209)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3665,6 +3824,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (221)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3721,6 +3884,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3779,6 +3946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (193)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3836,6 +4007,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (154)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3892,6 +4067,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3959,6 +4138,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4113,6 +4296,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (181)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4169,6 +4356,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4232,6 +4423,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4245,6 +4440,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03
@@ -4350,6 +4553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (122)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4411,6 +4618,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (137)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4516,6 +4727,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (102)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4572,6 +4787,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4640,6 +4859,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (180)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4696,6 +4919,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4820,6 +5047,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5061,6 +5292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (138)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5117,6 +5352,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5179,6 +5418,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (120)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5247,6 +5490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5304,6 +5551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (162)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5317,9 +5568,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.001645565
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5421,6 +5688,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5616,6 +5887,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (230)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5634,9 +5909,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5684,7 +5971,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: wallHitDelay
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: initialDirection
@@ -5818,6 +6105,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (173)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5885,6 +6176,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (223)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5947,6 +6242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (227)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6008,6 +6307,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (213)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6443,6 +6746,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6499,6 +6806,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (182)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6572,6 +6883,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6628,6 +6943,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (134)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6706,6 +7025,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6768,6 +7091,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (165)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6807,7 +7134,6 @@ Transform:
   - {fileID: 264880221}
   - {fileID: 1672384978}
   - {fileID: 759642015}
-  - {fileID: 233063532}
   - {fileID: 242749982}
   - {fileID: 1312824548}
   - {fileID: 1896489257}
@@ -6883,6 +7209,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6944,6 +7274,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7211,6 +7545,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7268,6 +7606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (139)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7291,9 +7633,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7479,6 +7833,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7550,6 +7908,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7633,6 +7995,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (160)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7689,6 +8055,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7747,6 +8117,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7760,9 +8134,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7873,6 +8259,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7940,6 +8330,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (218)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7958,9 +8352,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8008,7 +8414,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: wallHitDelay
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: initialDirection
@@ -8081,6 +8487,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8148,6 +8558,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8205,6 +8619,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (172)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8228,6 +8646,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (9)
@@ -8329,6 +8755,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8386,6 +8816,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (178)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8442,6 +8876,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21080,6 +21518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (225)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21141,6 +21583,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21338,6 +21784,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21395,6 +21845,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21451,6 +21905,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (125)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21523,6 +21981,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (222)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21623,6 +22085,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (5)
@@ -21738,6 +22208,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (219)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21794,6 +22268,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (208)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21852,6 +22330,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (114)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21883,19 +22365,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1079424623}
     m_Modifications:
     - target: {fileID: 1470758774155805387, guid: ccdff23eb0573774584893d72131b4fa, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.497
+      value: 7.9063115
       objectReference: {fileID: 0}
     - target: {fileID: 1470758774155805387, guid: ccdff23eb0573774584893d72131b4fa, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 59.501
+      value: 61.192036
       objectReference: {fileID: 0}
     - target: {fileID: 1470758774155805387, guid: ccdff23eb0573774584893d72131b4fa, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 4.6978564
       objectReference: {fileID: 0}
     - target: {fileID: 1470758774155805387, guid: ccdff23eb0573774584893d72131b4fa, type: 3}
       propertyPath: m_LocalRotation.w
@@ -21903,11 +22385,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1470758774155805387, guid: ccdff23eb0573774584893d72131b4fa, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1470758774155805387, guid: ccdff23eb0573774584893d72131b4fa, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1470758774155805387, guid: ccdff23eb0573774584893d72131b4fa, type: 3}
       propertyPath: m_LocalRotation.z
@@ -21989,6 +22471,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22109,6 +22595,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (194)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22165,6 +22655,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (100)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22232,6 +22726,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (199)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22305,6 +22803,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (185)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22361,6 +22863,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22424,6 +22930,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (104)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22437,6 +22947,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (2)
@@ -22683,6 +23201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (135)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22797,6 +23319,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22835,6 +23361,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (4)
@@ -22950,6 +23484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23011,6 +23549,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (228)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23074,6 +23616,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23136,6 +23682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23192,6 +23742,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (207)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23311,6 +23865,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (106)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23372,6 +23930,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (117)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23485,6 +24047,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (158)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23587,6 +24153,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23643,6 +24213,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23701,6 +24275,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (198)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23757,6 +24335,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (124)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23815,6 +24397,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (224)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23828,9 +24414,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23941,6 +24539,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24003,6 +24605,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24064,6 +24670,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (150)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24137,6 +24747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (214)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24186,6 +24800,7 @@ Transform:
   - {fileID: 1260641795}
   - {fileID: 1065594479}
   - {fileID: 1686010797}
+  - {fileID: 1831976544}
   m_Father: {fileID: 2059347776}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1080364519
@@ -24240,6 +24855,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (186)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24263,9 +24882,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24457,9 +25088,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24712,6 +25355,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (115)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24725,9 +25372,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24925,6 +25584,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (129)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24992,6 +25655,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (176)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25049,6 +25716,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (163)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25105,6 +25776,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25168,6 +25843,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (153)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25229,6 +25908,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25302,6 +25985,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25358,6 +26045,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (127)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25441,6 +26132,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25498,6 +26193,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (229)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25554,6 +26253,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (206)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25617,6 +26320,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25630,9 +26337,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25680,7 +26399,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: wallHitDelay
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: initialDirection
@@ -25793,9 +26512,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25911,6 +26642,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (116)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26019,6 +26754,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (130)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26081,6 +26820,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (197)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26137,6 +26880,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (217)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26210,6 +26957,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (152)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26266,6 +27017,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26324,6 +27079,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (183)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26380,6 +27139,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26503,6 +27266,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (123)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26585,6 +27352,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (113)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26641,6 +27412,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26860,6 +27635,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (210)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26921,6 +27700,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (191)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27036,6 +27819,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (203)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27092,6 +27879,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (98)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27202,6 +27993,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27339,6 +28134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (204)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27357,6 +28156,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (8)
@@ -27467,6 +28274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (136)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27523,6 +28334,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (171)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27581,6 +28396,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (157)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27599,9 +28418,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27722,6 +28553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (146)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27778,6 +28613,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (82)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27840,6 +28679,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (156)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28097,6 +28940,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28153,6 +29000,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (151)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28221,6 +29072,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28278,6 +29133,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28291,6 +29150,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (6)
@@ -28411,6 +29278,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (220)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28467,6 +29338,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (216)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28525,6 +29400,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (144)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28582,6 +29461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28595,6 +29478,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (1)
@@ -28965,6 +29856,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (179)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29105,6 +30000,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29162,6 +30061,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (184)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29175,9 +30078,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Offset.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29285,6 +30204,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (119)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29303,9 +30226,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29353,7 +30288,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: wallHitDelay
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: initialDirection
@@ -29416,6 +30351,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (205)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29473,6 +30412,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (149)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29529,6 +30472,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (187)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29597,6 +30544,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (159)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29664,6 +30615,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (94)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29726,6 +30681,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (196)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29783,6 +30742,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (142)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29839,6 +30802,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29901,6 +30868,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (132)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30185,6 +31156,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30259,9 +31234,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30372,6 +31359,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (202)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30434,6 +31425,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30452,6 +31447,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (3)
@@ -30567,6 +31570,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (133)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30634,6 +31641,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (166)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30695,6 +31706,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30810,6 +31825,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30823,9 +31842,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30873,7 +31904,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: wallHitDelay
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: initialDirection
@@ -30936,6 +31967,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30949,9 +31984,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31094,6 +32141,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31150,6 +32201,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31212,6 +32267,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (105)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31285,6 +32344,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31298,9 +32361,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31408,6 +32483,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1831976544 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1470758774155805387, guid: ccdff23eb0573774584893d72131b4fa, type: 3}
+  m_PrefabInstance: {fileID: 820901231}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1833261219
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31459,6 +32539,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31521,6 +32605,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (174)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31589,6 +32677,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31651,6 +32743,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31707,6 +32803,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31770,6 +32870,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (164)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31826,6 +32930,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (195)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31893,6 +33001,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (121)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32075,6 +33187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (188)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32162,6 +33278,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (110)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32362,6 +33482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (108)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32424,6 +33548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32480,6 +33608,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (109)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32538,6 +33670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (141)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32594,6 +33730,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32657,6 +33797,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (111)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32713,6 +33857,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32775,6 +33923,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32848,6 +34000,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (155)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32919,6 +34075,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (161)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32992,6 +34152,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (148)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33045,6 +34209,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1294561816}
     m_Modifications:
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 921989166875146129, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 4497928185094495662, guid: cba84afc48f488b4198c020ad1747fb0, type: 3}
       propertyPath: m_Name
       value: Enemy_03 (7)
@@ -33150,6 +34322,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33234,7 +34410,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2059347776}
   m_Layer: 0
-  m_Name: Lv1
+  m_Name: Lv3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33322,6 +34498,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33378,6 +34558,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (190)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33506,6 +34690,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33562,6 +34750,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (192)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33620,80 +34812,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (131)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
---- !u!1001 &2081844198
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 591903800}
-    m_Modifications:
-    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_Name
-      value: enemy_01 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 6.76
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 32.673
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 4.585364
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: moveSpeed
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: wallHitDelay
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
-      propertyPath: initialDirection
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
 --- !u!1001 &2086020727
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33745,6 +34872,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (168)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33888,6 +35019,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (147)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34024,6 +35159,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (212)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34080,6 +35219,10 @@ PrefabInstance:
     - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
       propertyPath: m_Name
       value: Gems (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34190,7 +35333,7 @@ MonoBehaviour:
   exitGame: {fileID: 26422666}
   pausePanel: {fileID: 1398038053}
   fillImage: {fileID: 2090023159}
-  maxScore: 230
+  maxScore: 1
   winPanel: {fileID: 1608632216}
 --- !u!4 &2132407251
 Transform:
@@ -34264,6 +35407,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34282,9 +35429,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 591903800}
     m_Modifications:
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 615248746263157929, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_Name
       value: enemy_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1773884170549019343, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4586412790430830171, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34332,7 +35491,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: wallHitDelay
-      value: 2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4661236784711882419, guid: 10bf7857ed97c3f48b02a7534c73360d, type: 3}
       propertyPath: initialDirection
@@ -34470,6 +35629,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 8451849872886854946, guid: d8e56955a5c7bfa46b18cbb9c0de7ca4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34504,8 +35667,24 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7170806857213795323, guid: c167381b8bdfad046b0e14e191ac2573, type: 3}
+      propertyPath: m_Size.x
+      value: 0.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 7170806857213795323, guid: c167381b8bdfad046b0e14e191ac2573, type: 3}
+      propertyPath: m_Size.y
+      value: 0.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 7170806857213795323, guid: c167381b8bdfad046b0e14e191ac2573, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7170806857213795323, guid: c167381b8bdfad046b0e14e191ac2573, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0016047955
+      objectReference: {fileID: 0}
+    - target: {fileID: 7170806857213795323, guid: c167381b8bdfad046b0e14e191ac2573, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.0020923615
       objectReference: {fileID: 0}
     - target: {fileID: 7170806857213795323, guid: c167381b8bdfad046b0e14e191ac2573, type: 3}
       propertyPath: m_IsTrigger
@@ -34567,4 +35746,3 @@ SceneRoots:
   - {fileID: 1166855237}
   - {fileID: 1830417715}
   - {fileID: 1423110637}
-  - {fileID: 820901231}

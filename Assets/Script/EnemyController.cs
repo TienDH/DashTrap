@@ -39,6 +39,7 @@ public class EnemyController : MonoBehaviour
 
     private void Update()
     {
+
         if (!playerDetected && !isWaiting)
         {
             Move();

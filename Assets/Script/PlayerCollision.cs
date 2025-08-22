@@ -20,39 +20,17 @@ public class PlayerCollision : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log($"Va chạm với: {collision.gameObject.name}, Tag: {collision.tag}");
         if (collision.CompareTag("Gem"))
         {
-            if (GameManager.Instance != null)
-            {
-                GameManager.Instance.AddScore(1);
-            }
-            else
-            {
-                Debug.LogError("GameManager.Instance là null!");
-            }
+            GameManager.Instance?.AddScore(1);
+            AudioManager.Instance?.PlaySFX(AudioManager.Instance.clip_3, true);
+            Destroy(collision.gameObject); // Sửa tại đây
+            Debug.Log("Gem đã bị Destroy!");
 
-            if (AudioManager.Instance != null)
-            {
-                AudioManager.Instance.PlaySFX(AudioManager.Instance.clip_3, true);
-            }
-            else
-            {
-                Debug.LogError("AudioManager.Instance là null!");
-            }
-
-            Destroy(collision.gameObject);
         }
         else if (collision.CompareTag("Enemy"))
         {
-            if (AudioManager.Instance != null)
-            {
-                AudioManager.Instance.PlaySFX(AudioManager.Instance.LossClip2);
-            }
-            else
-            {
-                Debug.LogError("AudioManager.Instance là null!");
-            }
+            AudioManager.Instance?.PlaySFX(AudioManager.Instance.LossClip2);
             StartCoroutine(BlinkAndDie());
         }
     }
